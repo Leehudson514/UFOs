@@ -6,7 +6,7 @@
 ![goals](https://github.com/Leehudson514/UFOs/blob/main/static/images/site_overview.png)
 
 ## Results
-* UFO data is filtered by the user through entering the desired information within the correct search criteria and pressing "Enter".
+* UFO data is filtered by the user through entering the desired information within the correct search criteria and pressing **"Enter"**.
 * Search criteria can be done through the following:
     * Filter by Date (MM/DD/YYYY)
     * Filter by City ("benton")
